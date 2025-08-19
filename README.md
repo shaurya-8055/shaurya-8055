@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-08-19 at 13 19 46_485e723e](https://github.com/user-attachments/assets/4d17ad13-f266-434b-a31c-1fe44fbf4a5b)<!-- Animated Top 1% Developer & Entrepreneurial README for shaurya-8055 -->
+(https://github.com/user-attachments/assets/4d17ad13-f266-434b-a31c-1fe44fbf4a5b)<!-- Animated Top 1% Developer & Entrepreneurial README for shaurya-8055 -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=2000&pause=800&color=F7971E&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Hey%2C+I'm+Shaurya+%7C+Top+10%25+IIITian!;Fullstack+Flutter+%2B+Web+Developer+%F0%9F%92%BB;Entrepreneur+%26+Business+Strategist+%F0%9F%92%B0;AI%2FML+%2F+DSA+Enthusiast;" alt="Typing SVG" />
