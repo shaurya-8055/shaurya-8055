@@ -1,13 +1,3 @@
-<!-- GitHub Profile README for shaurya-8055 -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+Shaurya+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!;Passionate+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%92%AC&center=true&width=500&height=45" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
-
 <!-- Animated Top 1% Developer & Entrepreneurial README for shaurya-8055 -->
 
 <p align="center">
