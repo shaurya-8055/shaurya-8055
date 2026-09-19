@@ -27,17 +27,6 @@ Frontend on a production Flutter travel app: 395 Dart files across 8 feature mod
 - Cleared launch-blocking **P0 defects** across three QA rounds: cold-start deep links, guest-gating holes, unreachable error branches, a live-tracking bug collapsing co-located users into one map pin
 - Wrote the **payment-service in Go** from scratch — 96 files, ~11K LOC: protobuf codegen, Razorpay signature verification, a transactional outbox worker on Pub/Sub, an authenticated gRPC server
 
-### Open source
-
-**[OPCODE Open Spring Fest](https://github.com/OPCODE-Open-Spring-Fest)** — 5 merged PRs into Flutter projects:
-
-| PR | What |
-|---|---|
-| [wallpaper_app #6](https://github.com/OPCODE-Open-Spring-Fest/wallpaper_app/pull/6) | Search bar on the home screen |
-| [wallpaper_app #7](https://github.com/OPCODE-Open-Spring-Fest/wallpaper_app/pull/7) | Dark / light theme toggle |
-| [wallpaper_app #8](https://github.com/OPCODE-Open-Spring-Fest/wallpaper_app/pull/8) | Multi-language support |
-| [flappy #19](https://github.com/OPCODE-Open-Spring-Fest/flappy/pull/19) | Game logic and collision physics |
-
 ### Things I've built
 
 **SynClock** — Flutter + Riverpod reminder app, offline-first Firestore sync, Gemini natural-language reminders with voice input and TTS, FCM + AlarmManager pipeline, serverless NestJS API on AWS Lambda. *Play Store internal testing.*
@@ -46,7 +35,7 @@ Frontend on a production Flutter travel app: 395 Dart files across 8 feature mod
 
 **[Telemed](https://github.com/SIH2025PS18/QBIT012025)** — Smart India Hackathon 2025, Team QBIT. Multilingual Flutter patient app with offline SQLite for 173 villages in Nabha, React doctor and pharmacy dashboards, Node.js + MongoDB backend, WebRTC consults. Led a 6-member team to 4th of 58 in the IIIT Bhagalpur qualifier, 6th overall.
 
-**[QuickGo](https://github.com/shaurya-8055/QUICKGO)** — Flutter e-commerce client: catalog, cart, order tracking, three-tier JWT/OTP auth, real-time WebSocket cart sync. Dockerized, deploys cut from 45 min to 5.
+**[QuickGo](https://github.com/shaurya-8055/QUICKGO)** — three Flutter clients (customer, worker, admin) on a Node.js/Express + MongoDB backend. JWT role-based auth, Twilio OTP, Google sign-in, Stripe payments, OneSignal push.
 
 ### Stack
 
