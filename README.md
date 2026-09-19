@@ -29,13 +29,13 @@ Frontend on a production Flutter travel app: 395 Dart files across 8 feature mod
 
 ### Things I've built
 
-**SynClock** — Flutter + Riverpod reminder app, offline-first Firestore sync, Gemini natural-language reminders with voice input and TTS, FCM + AlarmManager pipeline, serverless NestJS API on AWS Lambda. *Play Store internal testing.*
+<img src="synclock.png" width="18" align="top" alt=""> **[SynClock](https://shaurya-8055.github.io/synclock/)** — Flutter + Riverpod reminder app, offline-first Firestore sync, Gemini natural-language reminders with voice input and TTS, FCM + AlarmManager pipeline, serverless NestJS API on AWS Lambda. *Play Store internal testing.*
 
 **[Army Medicine Supplier](https://armymedicinesupplier.in)** — live e-pharmacy and delivery platform for ECHS beneficiaries. Next.js + NestJS + PostgreSQL, 8 modules, 5 JWT-secured roles, 5-stage Razorpay order lifecycle, real-time tracking on Socket.IO, Redis and BullMQ. Founder.
 
 **[Telemed](https://github.com/SIH2025PS18/QBIT012025)** — Smart India Hackathon 2025, Team QBIT. Multilingual Flutter patient app with offline SQLite for 173 villages in Nabha, React doctor and pharmacy dashboards, Node.js + MongoDB backend, WebRTC consults. Led a 6-member team to 4th of 58 in the IIIT Bhagalpur qualifier, 6th overall.
 
-**[QuickGo](https://github.com/shaurya-8055/QUICKGO)** — three Flutter clients (customer, worker, admin) on a Node.js/Express + MongoDB backend. JWT role-based auth, Twilio OTP, Google sign-in, Stripe payments, OneSignal push.
+**[QuickGo](https://github.com/shaurya-8055/QUICKGO)** — three Flutter clients (customer, worker, admin) on a Node.js/Express + MongoDB backend. JWT role-based auth, Twilio OTP, email OTP sign-in, Stripe payments, OneSignal push.
 
 ### Stack
 
