@@ -29,7 +29,9 @@ Frontend on a production Flutter travel app: 395 Dart files across 8 feature mod
 
 ### Things I've built
 
-<img src="synclock.png" width="18" align="top" alt=""> **[SynClock](https://shaurya-8055.github.io/synclock/)** — Flutter + Riverpod reminder app, offline-first Firestore sync, Gemini natural-language reminders with voice input and TTS, FCM + AlarmManager pipeline, serverless NestJS API on AWS Lambda. *Play Store internal testing.*
+<img src="synclock.png" width="18" align="top" alt=""> **[SynClock](https://github.com/shaurya-8055/synclock-app)** — offline-first Flutter reminder app (Riverpod, Hive): plain-English scheduling parsed on-device with a Gemini fallback, voice input and TTS in Hindi and English, FCM + AlarmManager exact alarms, shared family/team reminders. NestJS API on Oracle Cloud with SQLite/libSQL (Turso), deployed via GitHub Actions. *Distributed as a direct APK.*
+
+**[SnapFloat](https://github.com/shaurya-8055/snapfloat)** — open-source desktop screenshot tool for Linux and Windows: floating thumbnail, markup with private-info blur, OCR, QR, scrolling capture and screen recording. GNOME Shell extension; ships as an installer, AppImage and Scoop package.
 
 **[Army Medicine Supplier](https://armymedicinesupplier.in)** — live e-pharmacy and delivery platform for ECHS beneficiaries. Next.js + NestJS + PostgreSQL, 8 modules, 5 JWT-secured roles, 5-stage Razorpay order lifecycle, real-time tracking on Socket.IO, Redis and BullMQ. Founder.
 
@@ -41,7 +43,7 @@ Frontend on a production Flutter travel app: 395 Dart files across 8 feature mod
 
 **Mobile** Flutter · Dart · Riverpod · go_router · Drift/SQLite · Firebase · FCM · Google Places & Maps · offline-first sync
 **Web & backend** TypeScript · Next.js · React · Node.js · NestJS · Express · Go · PostgreSQL · Prisma · MongoDB · Redis
-**Infra** Docker · AWS (Lambda, S3) · GCP Pub/Sub · gRPC · Protocol Buffers · Socket.IO · BullMQ · Sentry
+**Infra** Docker · AWS (Lambda, S3) · Oracle Cloud · GitHub Actions · GCP Pub/Sub · gRPC · Protocol Buffers · Socket.IO · BullMQ · Sentry
 
 ### Also
 
