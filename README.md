@@ -33,7 +33,7 @@ Frontend on a production Flutter travel app: 395 Dart files across 8 feature mod
 
 **[SnapFloat](https://github.com/shaurya-8055/snapfloat)** — open-source desktop screenshot tool for Linux and Windows: floating thumbnail, markup with private-info blur, OCR, QR, scrolling capture and screen recording. GNOME Shell extension; ships as an installer, AppImage and Scoop package.
 
-**[Army Medicine Supplier](https://armymedicinesupplier.in)** — live e-pharmacy and delivery platform for ECHS beneficiaries. Next.js + NestJS + PostgreSQL, 8 modules, 5 JWT-secured roles, 5-stage Razorpay order lifecycle, real-time tracking on Socket.IO, Redis and BullMQ. Founder.
+**[Army Medicine Supplier](https://armymedicinesupplier.in)** — live e-pharmacy and delivery platform for ECHS beneficiaries. Next.js + NestJS + PostgreSQL on AWS, 5 JWT-secured roles, a 15-state order lifecycle with Razorpay and cash on delivery, real-time pharmacist chat on Socket.IO, Redis and BullMQ. Founder.
 
 **[Telemed](https://github.com/SIH2025PS18/QBIT012025)** — Smart India Hackathon 2025, Team QBIT. Multilingual Flutter patient app with offline SQLite for 173 villages in Nabha, React doctor and pharmacy dashboards, Node.js + MongoDB backend, WebRTC consults. Led a 6-member team to 4th of 58 in the IIIT Bhagalpur qualifier, 6th overall.
 
