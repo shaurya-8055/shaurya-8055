@@ -43,7 +43,7 @@ Frontend on a production Flutter travel app: 395 Dart files across 8 feature mod
 
 **Mobile** Flutter · Dart · Riverpod · go_router · Drift/SQLite · Firebase · FCM · Google Places & Maps · offline-first sync<br>
 **Web & backend** TypeScript · Next.js · React · Node.js · NestJS · Express · Go · PostgreSQL · Prisma · MongoDB · Redis<br>
-**Infra** Docker · AWS (Lambda, S3) · Oracle Cloud · GitHub Actions · GCP Pub/Sub · gRPC · Protocol Buffers · Socket.IO · BullMQ · Sentry
+**Infra** Docker · AWS (EC2, RDS, S3, CDK) · Oracle Cloud · GitHub Actions · GCP Pub/Sub · gRPC · Protocol Buffers · Socket.IO · BullMQ · Sentry
 
 ### Also
 
